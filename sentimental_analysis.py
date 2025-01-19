@@ -14,7 +14,7 @@ import re
 nltk.download('stopwords')
 
 # Reading dataset
-df = pd.read_csv(r"D:\Project\Sentimental Analysis\Restaurant_Reviews.tsv", delimiter='\t', quoting=3)
+df = pd.read_csv("Restaurant_Reviews.tsv", delimiter='\t', quoting=3)
 
 # Preview the dataset
 print(df.head())
