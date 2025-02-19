@@ -69,7 +69,7 @@ Results
 
 The results include the accuracy scores for all classifiers, with the XGBoost model generally performing the best. The confusion matrix for the best model is also printed for a deeper understanding of its predictions.
 
-Here are some sample of result
+Here are some sample of result:
 
 ![Screenshot 2025-01-19 152942](https://github.com/user-attachments/assets/69569c99-6493-4b03-a817-fbcfa319dae1)
 ![Screenshot 2025-01-19 153100](https://github.com/user-attachments/assets/8b30b8b4-4dad-4cb3-9be2-e775138c6daf)
